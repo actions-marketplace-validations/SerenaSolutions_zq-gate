@@ -1,6 +1,6 @@
 # ZQ-GATE
 
-![ZQ-GATE](https://img.shields.io/badge/decision-trivalent%201%2F0%2FREFUSED-blue) ![license](https://img.shields.io/badge/license-MIT-blue)
+![ZQ-GATE](https://img.shields.io/badge/decision-trivalent%201%2F0%2FREFUSED-blue) ![license](https://img.shields.io/badge/license-Apache--2.0-blue)
 
 **Run the ZeptonQL trivalent decision battery in CI.** Decisions come from quantum interference (Deutsch-Jozsa, one oracle call): constant `1`, constant `0`, balanced `REFUSED`. All pass = green; anything else fails the job. *Nothing executes silently.*
 
